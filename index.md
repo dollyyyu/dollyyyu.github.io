@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Test File
+description: Test Description
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
