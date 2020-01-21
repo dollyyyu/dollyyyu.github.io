@@ -4,6 +4,10 @@ title: Test File
 description: Test Description
 ---
 
+# my first heading
+
+[Go to Code Folder](/code/index.md)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
